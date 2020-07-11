@@ -1,8 +1,7 @@
 !/MDK-ARM/uart_extension_interface.uvprojx
-/drivers
-/mdk-arm
-/EWARM
-/MDK-ARM
+/EWARM/
+/MDK-ARM/
+Description&FW/
 *.MXPROJECT
 *.ioc
 ~*

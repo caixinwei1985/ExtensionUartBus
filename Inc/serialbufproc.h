@@ -18,6 +18,7 @@ typedef enum{
   FROM_DEV
 }e_framesrc;
 
+// 发往终端口的数据帧前导字节
 #define FRAME_HEADER0 0xaa
 #define FRAME_HEADER1 0x55
 
